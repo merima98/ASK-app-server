@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "merima.ceranic@test.com",
+      "password": "$2a$10$f8ZJJ/uLkYm6lE.R.pdAvuBwTsYG4R1N.UA6jg6MLBW8OrYy3Z.L2",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 1
+    },
+    {
+      "email": "mersiha.ceranic@test.com",
+      "password": "$2a$10$fAzSeIr8mDHW5a4Iik80MekXoK6kgOUKT.22H8Tl2Z4ofXiinbb0e",
+      "firstName": "Mersiha",
+      "lastName": "Ceranic",
+      "id": 2
+    },
+    {
+      "email": "azra.ceranic@test.com",
+      "password": "$2a$10$J2hYQHU/EJR6djJCqkOES.kmQ4l/PQvljYAt2BvgjwEgdCRQXapR6",
+      "firstName": "azra",
+      "lastName": "Ceranic",
+      "id": 3
+    },
+    {
+      "email": "meri.ceranic@test.com",
+      "password": "$2a$10$hz9VYKhE4dkTjMcfpGJWWOWzqfYRkYw/CBd0NbC2vj8fnsyQ3UB3S",
+      "firstName": "merima",
+      "lastName": "ceranic",
+      "id": 4
+    }
+  ]
+}
