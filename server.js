@@ -18,7 +18,6 @@ app.post('/check-password', (req, res) => {
         return res.status(200).json({ response: response });
     }
     else {
-        console.log('Rrrr,', response);
         return res.status(401).json({ response: response });
     }
 })
