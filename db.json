@@ -2,7 +2,7 @@
   "users": [
     {
       "email": "merima.ceranic@test.com",
-      "password": "$2a$10$f8ZJJ/uLkYm6lE.R.pdAvuBwTsYG4R1N.UA6jg6MLBW8OrYy3Z.L2",
+      "password": "$2a$10$TwpQgRCMPC9ENKAMTKQWuOF7nIIOYFUrI.dA4RZV2xdinY0sHPtMO",
       "firstName": "Merima",
       "lastName": "Ceranic",
       "id": 1
@@ -23,10 +23,485 @@
     },
     {
       "email": "meri.ceranic@test.com",
-      "password": "$2a$10$hz9VYKhE4dkTjMcfpGJWWOWzqfYRkYw/CBd0NbC2vj8fnsyQ3UB3S",
-      "firstName": "merima",
+      "password": "$2a$10$Fe.RErrTHZJYfMG2yqo8Aeyx3a2SnSSjrLwdMOUCpfTlEL28A0u8S",
+      "firstName": "Merima",
       "lastName": "ceranic",
       "id": 4
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "content": "I am changing content of question",
+      "dateOfCreation": "2022-01-08T19:47:00.000Z",
+      "likes": 17,
+      "dislikes": 2,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "content": "Do you like to read books?",
+      "dateOfCreation": "2021-01-08T19:47:00.000Z",
+      "likes": 7,
+      "dislikes": 5,
+      "userId": 1
+    },
+    {
+      "content": "Did you enjoy your working day?",
+      "dateOfCreation": "2022-01-08T19:47:00.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "content": "What did you eat today morning?",
+      "likes": 0,
+      "dislikes": 0,
+      "dateOfCreation": "2022-01-18T18:27:15.923Z",
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "content": "Do you like to learn?",
+      "likes": 4,
+      "dislikes": 2,
+      "dateOfCreation": "2022-01-18T18:29:15.222Z",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "content": "What did you drink today?",
+      "likes": 3,
+      "dislikes": 2,
+      "dateOfCreation": "2022-01-18T21:48:48.363Z",
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 10
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 12
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 13
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 14
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 15
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 16
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 18
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 19
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 20
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 21
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 22
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 23
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 24
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 25
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 26
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 27
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 28
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 29
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 30
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 31
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 32
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 33
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 34
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 35
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 36
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 37
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 38
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 39
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 40
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 41
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 42
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 43
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 44
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 45
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 46
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 47
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 48
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 49
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 50
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 51
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 52
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 53
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 54
+    },
+    {
+      "content": "I am changing content of question",
+      "likes": 14,
+      "dislikes": 10,
+      "dateOfCreation": "2022-01-18T21:59:51.552Z",
+      "userId": 4,
+      "id": 55
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "content": "I am fine",
+      "dateOfCreation": "2022-01-08T19:47:00.000Z",
+      "likes": 1,
+      "dislikes": 0,
+      "userId": 2,
+      "questionId": 1
+    },
+    {
+      "id": 2,
+      "content": "I was reading books in my primary school hehe",
+      "dateOfCreation": "2022-01-08T19:47:00.000Z",
+      "likes": 5,
+      "dislikes": 2,
+      "userId": 2,
+      "questionId": 2
+    },
+    {
+      "content": "I am testing this question",
+      "dateOfCreation": "2022-01-08T19:47:00.000Z",
+      "likes": 0,
+      "dislikes": 0,
+      "userId": 2,
+      "questionId": 1,
+      "id": 3
+    },
+    {
+      "content": "New answer by me.",
+      "likes": 0,
+      "dislikes": 0,
+      "dateOfCreation": "2022-01-19T00:50:04.010Z",
+      "questionId": 10,
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "content": "New super answer...",
+      "likes": 0,
+      "dislikes": 0,
+      "dateOfCreation": "2020-01-19T00:50:24.103Z",
+      "questionId": 10,
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "content": "Different answer...",
+      "likes": 0,
+      "dislikes": 0,
+      "dateOfCreation": "2020-01-19T00:50:24.103Z",
+      "questionId": 10,
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "content": "New answer here.",
+      "likes": 1,
+      "dislikes": 0,
+      "dateOfCreation": "2022-01-20T14:49:38.898Z",
+      "questionId": 1,
+      "userId": 4,
+      "id": 7
     }
   ]
 }
