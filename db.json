@@ -23,10 +23,136 @@
     },
     {
       "email": "meri.ceranic@test.com",
-      "password": "$2a$10$Fe.RErrTHZJYfMG2yqo8Aeyx3a2SnSSjrLwdMOUCpfTlEL28A0u8S",
-      "firstName": "Merima",
-      "lastName": "ceranic",
+      "password": "$2a$10$WhWW9tpp44Uk7owqZ0Uik.YFJiHzVYe.cn44pfa4OUTmUERHQb3v2",
+      "firstName": "Meri",
+      "lastName": "Ceranic",
       "id": 4
+    },
+    {
+      "email": "testing.ceranic@test.com",
+      "password": "$2a$10$.0CwKzlUJmBwjIex5wXpr.QJgpq/jgaywt5vBpO9FrpfGhUv2GTSm",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 5
+    },
+    {
+      "email": "testing1.ceranic@test.com",
+      "password": "$2a$10$Hiby6n/IBHrDrdrGFyu4LenePCNKIaIRcyemI7u3J8GczK08eysiu",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 6
+    },
+    {
+      "email": "testing2.ceranic@test.com",
+      "password": "$2a$10$r3fqpJQ5HjSQp8cTC8fWPeC1fDJ0nLWYZRP/UDiux1hi7g8UF11Se",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 7
+    },
+    {
+      "email": "testing3.ceranic@test.com",
+      "password": "$2a$10$DnHpPXgzyHI.A3SvWNOtpuctjaQUx4Lp2uYT4WYI75izrXZZM7twK",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 8
+    },
+    {
+      "email": "testing23.ceranic@test.com",
+      "password": "$2a$10$ZpZyLy3fPFpNaKu50ybMc.Dktj4AwT9pRlVud1zb7IrCKMztFlXPq",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 9
+    },
+    {
+      "email": "testing6pluy.ceranic@test.com",
+      "password": "$2a$10$HWFtSJBmUn7AjN1JBsQyeukxJlok1iBeY68KXqCuOofyt5JS5usoK",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 10
+    },
+    {
+      "email": "testing0.0z66tjwztzj.ceranic@test.com",
+      "password": "$2a$10$HKNoVmUhH.s42Z4C4nVEt.AS5CZUr/xAYj39udFGl.dGxhzByEQTK",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 11
+    },
+    {
+      "email": "testing0.x7u4xsfuze.ceranic@test.com",
+      "password": "$2a$10$dz6YCvUKwuCx1KlP2PDqBeNnjYszXeulVGmmYrVNqNw5OBh9ePYMi",
+      "firstName": "Merima",
+      "lastName": "Ceranic",
+      "id": 12
+    },
+    {
+      "email": "john0.evzntbo04bc.doe@test.com",
+      "password": "$2a$10$UZhmHB5qw2Bw0nQ4VU.HA.0KI4CWIOSQdPUrFeXs7/o/QL53P.5qa",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 13
+    },
+    {
+      "email": "john0.9825384534673229.doe@test.com",
+      "password": "$2a$10$x7A6fwZWTOVvSpl7Ovh1Au/fSknhfnfO/aPqkV7LGWbR10hbG8RdC",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 14
+    },
+    {
+      "email": "john0.03010202012101032013122323.doe@test.com",
+      "password": "$2a$10$CED7drDhF3WjJC/iJuoubeEDGUTy2sOUDTcBxG1Fd9kWg8q2PV11e",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 15
+    },
+    {
+      "email": "john0.332112010311320312010103.doe@test.com",
+      "password": "$2a$10$QCZEOWKIWQK.MKMDBCWuse7hFiUiKfng8N4X.Lf1ns3dR4bA3Y5xO",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 16
+    },
+    {
+      "email": "john0.b3coy37icta.doe@test.com",
+      "password": "$2a$10$gTT2KnPoIYta6KRwzoYfJuMPKSayMvUJkIojjrVB4wgudurEIm9ky",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 17
+    },
+    {
+      "email": "john0.2012233111113110110330331.doe@test.com",
+      "password": "$2a$10$T69Mwq.2lzetMJErPpOXrO0ZbEAUqEaUNA7z3vaJbGSsAfoXbbg/m",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 18
+    },
+    {
+      "email": "john0.7784548800572264.doe@test.com",
+      "password": "$2a$10$/dAiVSHQcwgX1OjkikOUHe8so9NiPAPqQVMJ0Vi1ZR7ISgT1ZaTf6",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 19
+    },
+    {
+      "email": "john0.6320066812072891.doe@test.com",
+      "password": "$2a$10$uISFDp5dv90QzDVCoD5Gn.4pwBvvnvfF3Y8vumFN1JmnkxB9xD9iC",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 20
+    },
+    {
+      "email": "john0.11389411334629784.doe@test.com",
+      "password": "$2a$10$bo8FWmZ9iXuXgRttx3BfvuqaLXRjHqTcLyjdjrD7S.FSZbZrHejo.",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 21
+    },
+    {
+      "email": "john0.6734680272784945.doe@test.com",
+      "password": "$2a$10$xwTFP4cSZQ0pINspxfpHNefXu6D/m/GUVe7lkDCKQhE3Bnmf9pUlK",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 22
     }
   ],
   "questions": [
@@ -35,7 +161,7 @@
       "content": "I am changing content of question",
       "dateOfCreation": "2022-01-08T19:47:00.000Z",
       "likes": 17,
-      "dislikes": 2,
+      "dislikes": 3,
       "userId": 1
     },
     {
@@ -80,15 +206,7 @@
     },
     {
       "content": "I am changing content of question",
-      "likes": 14,
-      "dislikes": 10,
-      "dateOfCreation": "2022-01-18T21:59:51.552Z",
-      "userId": 4,
-      "id": 10
-    },
-    {
-      "content": "I am changing content of question",
-      "likes": 14,
+      "likes": 17,
       "dislikes": 10,
       "dateOfCreation": "2022-01-18T21:59:51.552Z",
       "userId": 4,
@@ -96,7 +214,7 @@
     },
     {
       "content": "I am changing content of question",
-      "likes": 14,
+      "likes": 15,
       "dislikes": 10,
       "dateOfCreation": "2022-01-18T21:59:51.552Z",
       "userId": 4,
@@ -113,7 +231,7 @@
     {
       "content": "I am changing content of question",
       "likes": 14,
-      "dislikes": 10,
+      "dislikes": 11,
       "dateOfCreation": "2022-01-18T21:59:51.552Z",
       "userId": 4,
       "id": 15
@@ -169,7 +287,7 @@
     {
       "content": "I am changing content of question",
       "likes": 14,
-      "dislikes": 10,
+      "dislikes": 11,
       "dateOfCreation": "2022-01-18T21:59:51.552Z",
       "userId": 4,
       "id": 22
@@ -466,33 +584,6 @@
       "userId": 2,
       "questionId": 1,
       "id": 3
-    },
-    {
-      "content": "New answer by me.",
-      "likes": 0,
-      "dislikes": 0,
-      "dateOfCreation": "2022-01-19T00:50:04.010Z",
-      "questionId": 10,
-      "userId": 4,
-      "id": 4
-    },
-    {
-      "content": "New super answer...",
-      "likes": 0,
-      "dislikes": 0,
-      "dateOfCreation": "2020-01-19T00:50:24.103Z",
-      "questionId": 10,
-      "userId": 4,
-      "id": 5
-    },
-    {
-      "content": "Different answer...",
-      "likes": 0,
-      "dislikes": 0,
-      "dateOfCreation": "2020-01-19T00:50:24.103Z",
-      "questionId": 10,
-      "userId": 3,
-      "id": 6
     },
     {
       "content": "New answer here.",
