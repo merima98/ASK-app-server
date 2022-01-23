@@ -23,9 +23,9 @@
     },
     {
       "email": "meri.ceranic@test.com",
-      "password": "$2a$10$WhWW9tpp44Uk7owqZ0Uik.YFJiHzVYe.cn44pfa4OUTmUERHQb3v2",
-      "firstName": "Meri",
-      "lastName": "Ceranic",
+      "password": "$2a$10$iLEYsNL9m0V0PlOUtywUPegMiWoZY92hYWAqyLwuRK7SMtjc4J./K",
+      "firstName": "John",
+      "lastName": "Doe",
       "id": 4
     },
     {
@@ -153,6 +153,20 @@
       "firstName": "John",
       "lastName": "Doe",
       "id": 22
+    },
+    {
+      "email": "john0.06786832874414284.doe@test.com",
+      "password": "$2a$10$m8.9ws9s6zxKg6YY8LNc/uLZV4ENNxzFnEvK.wtAeOSYx7WRDDsui",
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 23
+    },
+    {
+      "email": "teo@gmail.com",
+      "password": "$2a$10$aUczzwkLpJ6jtS2T9.oGUOcn6eKji/whZD7Gtt3qBEKW5LI0uLpqi",
+      "firstName": "Teo",
+      "lastName": "Amando",
+      "id": 24
     }
   ],
   "questions": [
@@ -555,6 +569,14 @@
       "dateOfCreation": "2022-01-18T21:59:51.552Z",
       "userId": 4,
       "id": 55
+    },
+    {
+      "content": "New question.",
+      "likes": 0,
+      "dislikes": 1,
+      "dateOfCreation": "2022-01-23T15:43:33.580Z",
+      "userId": 4,
+      "id": 56
     }
   ],
   "answers": [
@@ -593,6 +615,15 @@
       "questionId": 1,
       "userId": 4,
       "id": 7
+    },
+    {
+      "content": "Very new answer here.",
+      "likes": 0,
+      "dislikes": 0,
+      "dateOfCreation": "2022-01-23T18:12:32.125Z",
+      "questionId": 56,
+      "userId": 4,
+      "id": 8
     }
   ]
 }

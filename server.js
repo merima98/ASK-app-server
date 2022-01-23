@@ -6,6 +6,7 @@ const e = require('express');
 
 const app = jsonServer.create();
 const router = jsonServer.router('db.json');
+const port = process.env.PORT || 3500;
 
 app.db = router.db;
 
@@ -24,5 +25,5 @@ app.post('/check-password', (req, res) => {
 
 app.use(auth);
 app.use(router);
-app.listen(3500);
+app.listen(port);
 
